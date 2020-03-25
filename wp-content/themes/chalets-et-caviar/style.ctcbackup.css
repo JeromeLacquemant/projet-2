@@ -1,0 +1,14 @@
+/*
+Theme Name: Chalets et Caviar
+Description: Theme enfant de OceanWP
+Author: Jérôme LACQUEMANT
+Author URI: http://projet-2.jeromelacquemant.fr
+Template: oceanwp
+Version: 0.1.0
+*/
+
+
+.page-header-title
+{
+	color:red !important;
+}

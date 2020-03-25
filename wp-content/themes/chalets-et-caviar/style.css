@@ -1,0 +1,70 @@
+/*
+Theme Name: Chalets et Caviar
+Template: oceanwp
+Author: Jérôme LACQUEMANT
+Author URI: http://projet-2.jeromelacquemant.fr
+Description: Theme enfant de OceanWP
+Version: 0.1.0.1573039161
+Updated: 2019-11-06 12:19:21
+
+*/
+
+.content-area {
+    width: 100%;
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+.page-header {
+    padding-bottom: 0;
+    background-color: white;
+}
+.page-header-title {
+    font-weight: bold;
+    color: #edcca4;
+}
+.thumbnail-caption {
+    display: none;
+    border: 0;
+    color: white;
+}
+.widget-title {
+    display: none;
+}
+.single-post-title {
+    display: none;
+}
+.entry-content {
+    text-align: center;
+    text-align: left;
+    padding: 0;
+}
+.entry-header {
+    text-align: center;
+}
+.content-area .site {
+    padding: 0;
+    margin: 0;
+}
+.footer-widget {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.es-category-items {
+    cursor: default;
+    pointer-events: none;
+}
+.es-cat-price {
+    display: flex;
+    padding-bottom: 15px;
+    border: 0;
+    justify-content: flex-start;
+}
+#content-wrap {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.es-tabbed-item {
+    text-align: center;
+}
